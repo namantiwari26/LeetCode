@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namantiwari26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/namantiwari26/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/namantiwari26/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namantiwari26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/namantiwari26/LeetCode/tree/master/0176-second-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/namantiwari26/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
