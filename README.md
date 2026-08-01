@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namantiwari26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/namantiwari26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/namantiwari26/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/namantiwari26/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/namantiwari26/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/namantiwari26/LeetCode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namantiwari26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/namantiwari26/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/namantiwari26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/namantiwari26/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
