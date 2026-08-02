@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namantiwari26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/namantiwari26/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/namantiwari26/LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namantiwari26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namantiwari26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
