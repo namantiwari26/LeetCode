@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/namantiwari26/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namantiwari26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/namantiwari26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/namantiwari26/LeetCode/tree/master/0242-valid-anagram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namantiwari26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/namantiwari26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/namantiwari26/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/namantiwari26/LeetCode/tree/master/0455-assign-cookies) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
