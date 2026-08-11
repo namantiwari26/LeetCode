@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namantiwari26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/namantiwari26/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namantiwari26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/namantiwari26/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/namantiwari26/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/namantiwari26/LeetCode/tree/master/0455-assign-cookies) |
+| [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
 ## Database
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
