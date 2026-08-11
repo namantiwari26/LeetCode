@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namantiwari26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/namantiwari26/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
