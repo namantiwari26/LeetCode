@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2652-sum-multiples](https://github.com/namantiwari26/LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namantiwari26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
