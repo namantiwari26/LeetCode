@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/namantiwari26/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/namantiwari26/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/namantiwari26/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/namantiwari26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/namantiwari26/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/namantiwari26/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/namantiwari26/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/namantiwari26/LeetCode/tree/master/0455-assign-cookies) |
+| [2094-finding-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3024-type-of-triangle](https://github.com/namantiwari26/LeetCode/tree/master/3024-type-of-triangle) |
 ## Database
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
+| [2094-finding-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -182,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
