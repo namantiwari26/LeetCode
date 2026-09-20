@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/namantiwari26/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namantiwari26/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3813-vowel-consonant-score](https://github.com/namantiwari26/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/namantiwari26/LeetCode/tree/master/0258-add-digits) |
+| [3813-vowel-consonant-score](https://github.com/namantiwari26/LeetCode/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
