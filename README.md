@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/namantiwari26/LeetCode/tree/master/0258-add-digits) |
 | [3813-vowel-consonant-score](https://github.com/namantiwari26/LeetCode/tree/master/3813-vowel-consonant-score) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
