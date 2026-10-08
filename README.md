@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/namantiwari26/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0709-to-lower-case](https://github.com/namantiwari26/LeetCode/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/namantiwari26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/namantiwari26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/namantiwari26/LeetCode/tree/master/3019-number-of-changing-keys) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/namantiwari26/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/namantiwari26/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
