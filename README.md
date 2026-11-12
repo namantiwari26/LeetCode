@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/namantiwari26/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/namantiwari26/LeetCode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/namantiwari26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
