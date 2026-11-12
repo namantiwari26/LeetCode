@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/namantiwari26/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/namantiwari26/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/namantiwari26/LeetCode/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/namantiwari26/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/namantiwari26/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/namantiwari26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/namantiwari26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/namantiwari26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/namantiwari26/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/namantiwari26/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
